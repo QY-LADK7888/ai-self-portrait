@@ -4,7 +4,7 @@
 
 **A Claude Skill that turns 30 minutes of conversation into a portable self-portrait any AI can read in 5 seconds.**
 
-[Skill](#quick-start) · [Vision](VISION.md) · [中文](#中文导引)
+[Skill](#quick-start) · [Vision](VISION.md) · [**中文版 README**](README_CN.md)
 
 </div>
 
